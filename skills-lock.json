@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "skills": {
+    "cesiumjs-3d-tiles": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-3d-tiles/SKILL.md",
+      "computedHash": "32255c9ea4996e3f40dbd7be275b83b92298ea5af775d9f2b6aa896894cb5d56"
+    },
+    "cesiumjs-camera": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-camera/SKILL.md",
+      "computedHash": "12a191993222187c2d7f1edb58c564f5ff00801bc2a5a7a67d1206e0cb6c5cdf"
+    },
+    "cesiumjs-core-utilities": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-core-utilities/SKILL.md",
+      "computedHash": "9f42f161ab7af5f59867e146710f4668e312d7196708e3de9c38804dce20f433"
+    },
+    "cesiumjs-custom-shader": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-custom-shader/SKILL.md",
+      "computedHash": "291312e8373d9c69f1362d964027f5a14a7f6652d4376290da4d3ab19226f74d"
+    },
+    "cesiumjs-entities": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-entities/SKILL.md",
+      "computedHash": "a799949d895391ff5ae43bf752e67a63e53e3091bc63caa6cd32fe6943725f88"
+    },
+    "cesiumjs-imagery": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-imagery/SKILL.md",
+      "computedHash": "20788034681f2721a01f799c21253f7c94a90e88895ccc081aaafcfbb63c4e7d"
+    },
+    "cesiumjs-interaction": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-interaction/SKILL.md",
+      "computedHash": "b98ee53ed815c81b2d2910d6c661f0b9e00e9c90e87004685065bcf23ac60534"
+    },
+    "cesiumjs-materials-shaders": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-materials-shaders/SKILL.md",
+      "computedHash": "4c2b4d5d50361c15b064906f7e8c1530b630e513fe3871f751ad17f3021af03a"
+    },
+    "cesiumjs-models-particles": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-models-particles/SKILL.md",
+      "computedHash": "5147523ed5417bae2cf359c9fd62c5a59475f99dc732923d3d3d05e936f8bdf5"
+    },
+    "cesiumjs-primitives": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-primitives/SKILL.md",
+      "computedHash": "60804867e3307b44ae7dc17aa634d7ab1ec348a3c1d8293d271296ce344da6df"
+    },
+    "cesiumjs-spatial-math": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-spatial-math/SKILL.md",
+      "computedHash": "6660ac9f1679a57b6c203e4d323ec4bdd8c77da01a79e077f9f2385c50cc2e55"
+    },
+    "cesiumjs-terrain-environment": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-terrain-environment/SKILL.md",
+      "computedHash": "e86ac8344fc29dc82b7f4f7e7505ccb624152afec6f664ddd31b495c4ace0065"
+    },
+    "cesiumjs-time-properties": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-time-properties/SKILL.md",
+      "computedHash": "e9e3e16ed06ab66a9b35f8cf4eace07beaa0ec504f165706400c8a3d16e9fff1"
+    },
+    "cesiumjs-viewer-setup": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cesiumjs-viewer-setup/SKILL.md",
+      "computedHash": "c61d6f5f341a6d412e0c299026c8bf545a52a43887a5195d29755e8241e1571c"
+    },
+    "using-cesiumjs-skills": {
+      "source": "cesiumgs/cesiumjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/using-cesiumjs-skills/SKILL.md",
+      "computedHash": "1f9cc9859006a190157585d82a2fbd3fe6f7583f97f1ddfb0cad5430972efacf"
+    }
+  }
+}
